@@ -1,67 +1,135 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&section=header&text=Honey%20Darji&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BCA%20Student%20%7C%20Web%20Developer%20%7C%20AI%20Explorer&descAlignY=58&descSize=18&color=0:0F172A,50:2563EB,100:7C3AED" width="100%"/>
+# 👋 HONEY DARJI
+
+### BCA Student • Web Developer • AI Explorer
+
+**Building. Learning. Exploring.**
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=6366F1&center=true&vCenter=true&width=750&lines=Welcome+to+my+Personal+Portfolio!;Web+Development+%7C+AI+%7C+UI%2FUX;Learning+%7C+Building+%7C+Exploring;Turning+Ideas+into+Real+Projects+%F0%9F%9A%80" alt="Typing Animation"/>
-
-<br><br>
+<a href="https://darjihoney02-web.github.io/Personal_Porfolio/">
+  <img src="https://img.shields.io/badge/🌐%20LIVE%20PORTFOLIO-6366F1?style=for-the-badge&labelColor=111827" />
+</a>
 
 <a href="https://github.com/darjihoney02-web/Personal_Porfolio">
-
-<img src="https://img.shields.io/badge/VIEW%20SOURCE%20CODE-111827?style=for-the-badge&logo=github&logoColor=white" alt="View Source Code"/>
-
-</a>
-
-&nbsp;
-
-<a href="YOUR_LIVE_PORTFOLIO_LINK">
-
-<img src="https://img.shields.io/badge/VISIT%20LIVE%20PORTFOLIO-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Portfolio"/>
-
+  <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-111827?style=for-the-badge&labelColor=111827" />
 </a>
 
 <br><br>
 
-<sub>My personal space to showcase my skills, projects, achievements and journey.</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Web+Development+%7C+AI+%7C+UI%2FUX;Learning+%E2%80%A2+Building+%E2%80%A2+Improving;Turning+Ideas+into+Practical+Projects;Exploring+Emerging+Technologies+%F0%9F%9A%80" />
 
 </div>
 
 ---
 
-# 👋 About Me
+## 🧑‍💻 About This Portfolio
 
-Hi, I'm **Honey Darji**, a BCA student at **CHARUSAT University** with an interest in **web development, AI, UI/UX and emerging technologies**.
+Welcome to my personal portfolio repository.
 
-I enjoy learning by building practical projects and participating in competitions, hackathons and collaborative development activities.
+I'm **Honey Darji**, a BCA student at **CHARUSAT University**, interested in **Web Development, Artificial Intelligence, UI/UX and emerging technologies**.
 
-This portfolio brings together my:
+This portfolio is a place where I showcase the things I am learning, building and exploring throughout my academic and technical journey.
 
-- 💻 Technical skills
-- 🚀 Projects
-- 🏆 Achievements
-- 📜 Certifications
-- 🛣️ Learning journey
-- 🤖 Interest in AI and emerging technologies
-
-> **Learning technology is not just about knowing tools — it's about using them to build something meaningful.**
+> **Learn → Build → Experiment → Improve**
 
 ---
 
-# ⚡ What You'll Find Here
+## ✨ What's Inside
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-| 🚀 Projects | 🧠 Skills | 🏆 Achievements |
-|:---:|:---:|:---:|
-| Practical & academic projects | Technologies I'm learning | Competitions & milestones |
+### 💻 Technical Skills
 
-| 📜 Certifications | 🛣️ Journey | 🤖 AI Exploration |
-|:---:|:---:|:---:|
-| Learning achievements | Academic & technical growth | AI-powered ideas & projects |
+- HTML & CSS
+- JavaScript
+- Python
+- UI/UX & Figma
+- Git & GitHub
+- Data & Technology
+- AI & Emerging Technologies
 
-</div>
+</td>
+
+<td width="50%">
+
+### 🚀 Portfolio Content
+
+- Projects
+- Achievements
+- Certifications
+- Learning Journey
+- Technical Skills
+- Contact & Social Links
+- Interactive AI Assistant
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 SamadhanAI
+
+An AI-powered platform concept designed to connect **citizen/local problems with suitable people and organizations who can help solve them**.
+
+**Key Features**
+
+- 📝 Problem submission
+- 🎙️ Voice input
+- 📷 Image & media support
+- 📍 Geolocation
+- 🤖 AI-based categorization
+- 🔎 Duplicate problem detection
+- 👥 Skill-based matching
+- 🌐 PWA approach
+
+**Idea:**  
+> Don't just collect problems — connect them with the right people.
+
+---
+
+### 🔗 SkillBridge
+
+A skill-verified platform concept that helps students and developers find suitable **teammates and project opportunities based on their skills**.
+
+**Focus Areas**
+
+- 👤 Skill profiles
+- 🤝 Team matching
+- 🎯 Project collaboration
+- 📊 Skill-gap identification
+- 🚀 Student development
+
+---
+
+### 🤖 AI Personal Portfolio
+
+An interactive portfolio built to combine a personal website with an **AI chat assistant**.
+
+**Includes**
+
+- Modern responsive interface
+- Interactive AI assistant
+- Skills showcase
+- Project showcase
+- Achievement section
+- Certifications
+- Learning journey
+- Contact section
+
+---
+
+### 🛍️ VendorGo
+
+An AI-powered platform concept focused on providing digital solutions for **vendors and businesses**.
+
+The project represents my interest in applying technology and AI to practical business problems.
 
 ---
 
@@ -69,88 +137,29 @@ This portfolio brings together my:
 
 <div align="center">
 
-### 🌐 Web Development
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
 <br><br>
 
-### 🐍 Programming & Data
+### Programming
 
 <img src="https://skillicons.dev/icons?i=python" />
 
 <br><br>
 
-### 🎨 UI / UX
+### Design
 
 <img src="https://skillicons.dev/icons?i=figma" />
 
 <br><br>
 
-### 🔧 Tools & Development
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 SamadhanAI
-
-An AI-powered platform concept focused on connecting **citizen/local problems with the right people and organizations who can help solve them**.
-
-### Key Areas
-
-- 📝 Problem submission
-- 🎙️ Voice-based input
-- 📷 Image & media support
-- 📍 Geolocation
-- 🤖 AI-based categorization
-- 🔎 Duplicate problem detection
-- 👥 Skill-based matching
-- 🌐 Progressive Web App approach
-
----
-
-## 🔗 SkillBridge
-
-A skill-verified platform concept designed to help students and developers **find suitable teammates and project opportunities based on their skills**.
-
-### Focus
-
-- 👤 Skill profiles
-- 🤝 Team matching
-- 🎯 Project-based collaboration
-- 📊 Skill-gap identification
-- 🚀 Student collaboration
-
----
-
-## 💻 AI Personal Portfolio
-
-This portfolio itself is one of my projects.
-
-It combines a modern portfolio interface with an **interactive AI chat assistant** to make the portfolio more engaging and informative.
-
-### Includes
-
-- ✨ Modern UI
-- 🤖 AI Chat Assistant
-- 📱 Responsive design
-- ⚡ Interactive sections
-- 🏆 Achievement showcase
-- 📜 Certification section
-- 📬 Contact information
-
----
-
-## 🛍️ VendorGo
-
-An AI-powered platform concept focused on helping vendors and businesses with digital solutions.
-
-The project is part of my journey of exploring how **technology and AI can be applied to practical business problems**.
 
 ---
 
@@ -160,56 +169,53 @@ The project is part of my journey of exploring how **technology and AI can be ap
 
 **3rd Place among 1000+ participants across Gujarat**
 
-A portfolio development challenge that helped me strengthen my web development, UI/UX, creativity and presentation skills.
+A portfolio development challenge that helped me improve my web development, UI/UX, creativity and presentation skills.
 
-### 🏫 Smart India Hackathon 2026
-
-Selected at the **university level** while working on **SamadhanAI**, a solution focused on connecting local problems with suitable people and organizations.
+---
 
 ### 🤖 AI-WebForge Challenge
 
-Developed an AI-powered portfolio with an interactive AI assistant and received recognition in the challenge.
+Developed an AI-powered portfolio with an interactive AI assistant as part of the AI-WebForge challenge.
+
+---
+
+### 🏫 Smart India Hackathon 2026
+
+Worked on **SamadhanAI**, a solution focused on connecting local problems with suitable people and organizations.
 
 ---
 
 # 📜 Certifications & Learning
 
-My portfolio includes certifications and learning achievements across areas such as:
+The portfolio includes certifications and learning achievements related to:
 
 - 💻 Technology
 - 🤖 AI Literacy
 - 🌐 Web Development
+- 🎨 UI/UX
 - 🏆 Competitions
-- 🎨 Design
-- 📊 Digital & Technical Skills
+- 📊 Technical Skills
+- 🔧 Digital Tools
 
 ---
 
-# 🌱 My Learning Journey
+# 📈 My Learning Journey
 
 ```text
 HTML & CSS
-     │
-     ▼
+      ↓
 JavaScript
-     │
-     ▼
+      ↓
 Web Development
-     │
-     ▼
+      ↓
 UI / UX
-     │
-     ▼
+      ↓
 Git & GitHub
-     │
-     ▼
+      ↓
 Python
-     │
-     ▼
+      ↓
 AI & Emerging Technologies
-     │
-     ▼
-Real-World Projects
-     │
-     ▼
+      ↓
+Practical Projects
+      ↓
 Continuous Learning 🚀
